@@ -1,3 +1,5 @@
+package africa.semicolon.serialization;
+
 import africa.semicolon.serialization.Car;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
